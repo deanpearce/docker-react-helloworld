@@ -1,6 +1,6 @@
 hello:
   build: .
-  command: npm install
+  command: npm start
   environment:
     NODE_ENV: development
   ports:
